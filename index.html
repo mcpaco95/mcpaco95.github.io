@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" href="assets/icon.png">
     <title>Media Punta | Home</title>
@@ -17,7 +18,7 @@
 </head>
 
 <body onload="typeWriter()">
-    <div class="jumbotron">
+    <div class="jumbotron jumbotron-portada">
         <div class="jumbotron-header">
             <nav class="navbar navbar-expand-md navbar-custom bg-transparent">
                 <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#NavBuger"
@@ -56,84 +57,64 @@
     </div>
     <div class="container">
         <div class="card google-ads-1">
-            <div class="text-center"><p class="lead">publicidad</p></div>
+            <div class="text-center">
+                <p class="lead">publicidad</p>
+            </div>
         </div>
     </div>
     <main class="container">
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-lg-8">
                 <div class="row">
-                    <section class="section-space">
-                        <div class="container">
-                            <div class="card post-card">
-                                <div class="card-horizontal">
-                                    <div class="img-square-wrapper">
-                                        <img class="" src="http://via.placeholder.com/200x250" alt="Card image cap">
-                                    </div>
-                                    <div class="card-body">
-                                        <strong class="d-inline-block mb-2 text-success">Category1</strong>
-                                        <h3 class="blog-title mb-0">
-                                            <a class="text-dark" href="#">Titulo del artículo</a>
-                                        </h3>
-                                        <div class="mb-1 text-muted">Nov 12</div>
-                                        <hr>
-                                        <p class="card-text mb-auto">This is a wider card with supporting text below as
-                                            a
-                                            natural lead-in to additional content.</p>
-                                        <a class="float-right" href="#">Leer más...</a>
-                                    </div>
-                                </div>
+                    <div class="container">
+                        <div class="jumbotron p-3 p-md-5 text-white rounded"
+                            style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url('assets/messi.jpg'); background-size: cover;">
+                            <div class="col-md-6 px-0">
+                                <h1 class="display-4 font-italic">Title of a longer featured blog post</h1>
+                                <p class="lead my-3">Multiple lines of text that form the lede, informing new readers
+                                    quickly and efficiently about what's most interesting in this post's contents.</p>
+                                <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Continue
+                                        reading...</a>
+                                </p>
                             </div>
                         </div>
-                    </section>
+                    </div>
                 </div>
                 <hr>
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="section-space">
-                            <div class="card post-card">
-                                <div class="card-horizontal">
-                                    <div class="img-square-wrapper">
-                                        <img class="" src="http://via.placeholder.com/200x250" alt="Card image cap">
-                                    </div>
-                                    <div class="card-body">
-                                        <strong class="d-inline-block mb-2 text-primary">Category2</strong>
-                                        <h3 class="blog-title mb-0">
-                                            <a class="text-dark" href="#">Titulo del artículo</a>
-                                        </h3>
-                                        <div class="mb-1 text-muted">Nov 12</div>
-                                        <hr>
-
-                                        <a class="float-right" href="#">Leer más...</a>
-                                    </div>
-                                </div>
+                        <div class="card mb-3 box-shadow">
+                            <img class="card-img-top" src="assets/ansu.jpg" alt="Thumbnail">
+                            <div class="card-body">
+                                <strong class="d-inline-block mb-2 text-primary">category</strong>
+                                <h3 class="mb-0">
+                                    <a class="blog-title" href="#">Featured post</a>
+                                </h3>
+                                <div class="mb-1 text-muted">Nov 12</div>
+                                <p class="mb-auto">This is a wider card with supporting text below as a
+                                    natural lead-in to additional content.</p>
+                                <a class="float-right" href="#">Continue reading...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="section-space">
-                            <div class="card post-card">
-                                <div class="card-horizontal">
-                                    <div class="img-square-wrapper">
-                                        <img class="" src="http://via.placeholder.com/200x250" alt="Card image cap">
-                                    </div>
-                                    <div class="card-body">
-                                        <strong class="d-inline-block mb-2 text-danger">Category2</strong>
-                                        <h3 class="blog-title mb-0">
-                                            <a class="text-dark" href="#">Titulo del artículo</a>
-                                        </h3>
-                                        <div class="mb-1 text-muted">Nov 12</div>
-                                        <hr>
-
-                                        <a class="float-right" href="#">Leer más...</a>
-                                    </div>
-                                </div>
+                        <div class="card mb-3 box-shadow">
+                            <img class="card-img-top" src="assets/neymar.jpeg" alt="Thumbnail">
+                            <div class="card-body">
+                                <strong class="d-inline-block mb-2 text-success">category</strong>
+                                <h3 class="mb-0">
+                                    <a class="blog-title" href="#">Post title</a>
+                                </h3>
+                                <div class="mb-1 text-muted">Nov 11</div>
+                                <p class="mb-auto">This is a wider card with supporting text below as a
+                                    natural lead-in to additional content.</p>
+                                <a class="float-right" href="#">Continue reading...</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-4">
                 <div class="text-center">
                     <h2>Archivo</h2>
                 </div>
@@ -152,7 +133,9 @@
                     <li><a class="lead" href=""><i>2020 &middot; Julio</i></a></li>
                 </ul>
                 <div class="card google-ads-2">
-                    <div class="text-center"><p class="lead">publicidad</p></div>
+                    <div class="text-center">
+                        <p class="lead">publicidad</p>
+                    </div>
                 </div>
             </div>
         </div>

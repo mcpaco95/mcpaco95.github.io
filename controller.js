@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'De aficionados, para aficionados...'; 
+var txt = 'De aficionados, para aficionados'; 
 var speed = 75; 
 
 function typeWriter() {
