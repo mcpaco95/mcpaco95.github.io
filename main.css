@@ -20,13 +20,13 @@ main{
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/portada.jpg");
   background-size: cover;
-  
+  background-attachment: fixed;
   background-position: 50% 100%;
 }
 .jumbotron-content{
   text-align: center;
   position: relative;
-  top: 4%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
