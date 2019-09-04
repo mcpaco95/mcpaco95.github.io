@@ -97,6 +97,9 @@ main{
   letter-spacing: 3px;
   
 }
+.bg-dracula{
+ background-color: #3C4556;
+}
 .cursiva{
   letter-spacing: 2px;
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
@@ -113,6 +116,11 @@ main{
   padding-bottom: 25px;
   min-width: 100%;
   min-height: 200px;
+}
+.google-ads-3{
+  padding-bottom: 25px;
+  min-width: 100%;
+  min-height: 100%;
 }
 .footer {
   position: relative;
@@ -131,6 +139,28 @@ main{
 }
 .blog-title{
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.blog-content{
+  text-align: justify;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: .2px;
+}
+.blog-image{
+  margin-bottom: 25px;
+}
+.team-badge{
+  max-width: 25px;
+  max-height: auto;
+}
+.profile-pic{
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: -50px;
+  border: 1px solid gray;
+  border-radius: 50%;
 }
 .card-horizontal {
   display: flex;
