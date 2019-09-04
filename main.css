@@ -3,7 +3,6 @@ body{
   height: 100%;
 }
 main{
-  padding-top: 25px;
   padding-bottom: 25px;
   position: relative;
   min-height: 100vh;
@@ -108,19 +107,19 @@ main{
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .12);
 }
 .google-ads-1{
-  padding-bottom: 25px;
+  margin-bottom: 25px;
   min-width: 100%;
   min-height: 100px;
 }
 .google-ads-2{
-  padding-bottom: 25px;
+  margin-bottom: 25px;
   min-width: 100%;
   min-height: 200px;
 }
 .google-ads-3{
-  padding-bottom: 25px;
+  margin-top: 25px;
   min-width: 100%;
-  min-height: 100%;
+  min-height: 100px;
 }
 .footer {
   position: relative;
@@ -138,6 +137,7 @@ main{
   color: black;
 }
 .blog-title{
+  padding-top: 25px;
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
 .blog-content{
@@ -177,4 +177,7 @@ main{
     min-height: 200px;
     max-height: 200px;
   }
+}
+.test{
+  padding: 20px;
 }
