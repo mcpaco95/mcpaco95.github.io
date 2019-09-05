@@ -7,9 +7,8 @@ main{
   position: relative;
   min-height: 100vh;
 }
-.section-space{
-  padding-top: 25px;
-  padding-bottom: 25px;
+.hide{
+  display: none;
 }
 .jumbotron-portada{
   display: flex;
@@ -59,10 +58,14 @@ main{
 .bg-transparent{
   background-color: transparent;
 }
-.navbar-post{
+.navbar-shadow{
   -webkit-box-shadow: 0 8px 6px -6px #999;
   -moz-box-shadow: 0 8px 6px -6px #999;
   box-shadow: 0 8px 6px -6px #999;
+}
+.navbar-big{
+  padding-top: 1.3rem;
+  padding-bottom: 1.3rem;
 }
 .item-font{
   letter-spacing: 1px;
@@ -91,6 +94,24 @@ main{
   color: white !important;
   border-bottom:2px solid white;
 }
+
+.navbar-custom2 .navbar-brand {
+  color: black;
+}
+
+.navbar-custom2 .navbar-nav .active>.nav-link, .navbar-custom2 .navbar-nav .nav-link.active, .navbar-custom2 .navbar-nav .nav-link.show, .navbar-custom2 .navbar-nav .show>.nav-link {
+  color: black;
+  border-bottom:2px solid black;
+}
+
+.navbar-custom2 .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-custom2 .navbar-nav .nav-link:focus, .navbar-custom2 .navbar-nav .nav-link:hover {
+  color: black !important;
+  border-bottom:2px solid black;
+}
 .light-font{
   font-weight: 100;
   letter-spacing: 3px;
@@ -98,6 +119,13 @@ main{
 }
 .bg-dracula{
  background-color: #3C4556;
+ color: white;
+}
+.color-dracula{
+  color:black;
+}
+.color-dracula:hover{
+  color: #3C4556;
 }
 .cursiva{
   letter-spacing: 2px;
@@ -110,15 +138,18 @@ main{
   margin-bottom: 25px;
   min-width: 100%;
   min-height: 100px;
+  display: none;
 }
 .google-ads-2{
   margin-bottom: 25px;
   min-width: 100%;
   min-height: 200px;
+  display: none;
 }
 .google-ads-3{
   margin-top: 25px;
   min-width: 100%;
+  display: none;
   min-height: 100px;
 }
 .footer {
@@ -152,6 +183,10 @@ main{
   max-width: 25px;
   max-height: auto;
 }
+.team-badge-bg{
+  max-width: 50px;
+  max-height: auto;
+}
 .profile-pic{
   position: absolute;
   top: -50px;
@@ -159,6 +194,13 @@ main{
   width: 100px;
   height: 100px;
   margin-left: -50px;
+  border: 1px solid gray;
+  border-radius: 50%;
+}
+.author-pic{
+  margin-top: 25px;
+  width: 200px;
+  height: 200px;
   border: 1px solid gray;
   border-radius: 50%;
 }
@@ -171,13 +213,16 @@ main{
   width: 100%;
   height: auto;
 }
+.rss{
+  color: black;
+}
+.padding-profile{
+  margin-top: 40px;
+}
 @media (min-width: 768px) {
   .card-img-top{
     width: 100%;
     min-height: 200px;
     max-height: 200px;
   }
-}
-.test{
-  padding: 20px;
 }
