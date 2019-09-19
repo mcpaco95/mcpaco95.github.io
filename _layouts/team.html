@@ -1,0 +1,66 @@
+{%include header.html%}
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-custom2 navbar-shadow navbar-big">
+            <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#NavBuger"
+                aria-controls="NavBuger" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="NavBuger">
+                <div class="container">
+                    <ul class="navbar-nav d-flex justify-content-start">
+                        <li class="nav-item item-font">
+                            <a class="nav-link" href="/"><i class="fas fa-home"></i> Inicio</a>
+                        </li>
+                        <li class="nav-item item-font">
+                            <a class="nav-link" href="/posts/"><i class="fas fa-comments"></i> Blog</a>
+                        </li>
+                        <li class="nav-item item-font">
+                            <a class="nav-link hide" href=""><i class="fas fa-address-book"></i> Categorías</a>
+                        </li>
+                        <li class="nav-item item-font">
+                            <a class="nav-link active" href="/team/"><i class="fas fa-users"></i> Equipo</a>
+                        </li>
+                        <li class="nav-item item-font">
+                            <a class="nav-link" href="/donate/"><i class="fab fa-paypal"></i> Donar</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <body>
+        <main class="container">
+            <h1 class="blog-title">{{page.title}}</h1>
+            <hr>
+            <div class="row">
+                {%for author in site.authors%}
+                <div class="col-md-6">
+                    <div class="card mb-3 mt-5 profile-card box-shadow">
+                        <div class="container">
+                            <div class="text-center mt-5 mb-2">
+                                <img src="{{author.pic}}" alt="" class="profile-pic">
+                                <a href="{{author.url}}" class="color-dracula">
+                                    <h2 class="profile-title"> {{author.title}} </h2>
+                                </a>
+                                {%for badge in author.badges%}
+                                <img src="{{badge}}" alt="" class="team-badge">
+                                {%endfor%}
+                                <p class="text-muted mb-0">{{author.description}}</p>
+                                <a class="text-black" target="_blank" href="{{author.mail}}"><i
+                                        class="fas fa-envelope"></i></a>
+                                <a class="text-black" target="_blank" href="{{author.twitter}}"><i
+                                        class="fab fa-twitter"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {%endfor%}
+            </div>
+        </main>
+    </body>
+    {%include footer.html%}
