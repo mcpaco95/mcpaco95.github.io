@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Migue Valle
-pic: /assets/img/profiles/migue.jpg
+pic: /assets/img/profiles/miguevalle.jpg
 badges: [/assets/img/badges/madrid.png, /assets/img/badges/tottenham.png]
 description: Descripción
 twitter: https://twitter.com/miguevalle
