@@ -2,7 +2,6 @@
 layout: my_post
 permalink: /posts/:title:output_ext
 author: Migue Valle
-mydate: 18/9/19
 title: Después de tres jornadas, así luce el “nuevo” Real Madrid de Zidane.
 description: El conjunto merengue ha tenido tres jornadas llenas de dudas y lesiones, pero no todo es oscuridad.
 thumbnail: /assets/img/thumbnails/despues-de-tres-jornadas.jpeg

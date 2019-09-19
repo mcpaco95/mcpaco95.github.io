@@ -44,7 +44,7 @@
         <div class="text-center">
             <h1 class="blog-title">{{page.title}}</h1>
             <p class="lead text-muted">{{page.description}}</p>
-            <p class="text-muted"><i>{{page.mydate}}</i></p>
+            <p class="text-muted"><i>{{page.date | date: '%d/%m/%y'}}</i></p>
         </div>
         <hr>
         <div class="row">
