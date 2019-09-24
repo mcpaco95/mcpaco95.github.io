@@ -2,16 +2,16 @@
 layout: my_post
 permalink: /posts/:title:output_ext
 author: Paco Marlasca
-title: Será por medios!
+title: Va a ser por medios!
 description: El Barça sigue sin encontrar el encaje ideal de sus piezas en medio campo a pesar de contar con argumentos para deslumbrar con balón.
 thumbnail: /assets/img/thumbnails/sera-por-medios.jpeg
 tags: [Barça, Busquets, de Jong, Arthur]
 main: false
 ---
 
-El recién llegado Frenkie de Jong, la sensación de la temporada pasada Arthur Melo y el veterano Sergio Busquets forman un centro del campo que llenaría los ojos a cualquier amante del balompié. De igual forma se cuenta en la primera plantilla con jugadores de la talla de Iván Rakitic, Arturo Vidal y Carles Aleñà. Parecería que el ultimo de los problemas en can Barça debería ser el centro del campo.
+El recién llegado Frenkie de Jong, la sensación de la temporada pasada Arthur Melo y el veterano Sergio Busquets forman un centro del campo que llenaría los ojos a cualquier amante del balompié. También se encuentran en el primer equipo jugadores de talla mundial como Iván Rakitic, Arturo Vidal o Carles Aleñà y sin contar a Riqui Puig que viene tocando puerta desde el curso pasado. Parecería que el ultimo de los problemas en can Barça debería ser el centro del campo.
 
-Para la sorpresa de muchos el encaje de las piezas no está siendo nada fácil para Ernesto Valverde, que sigue sin encontrar la forma de poner en marcha semejante abuso de calidad en el centro del campo.
+Para sorpresa de muchos el encaje de las piezas no está siendo nada fácil para Ernesto Valverde, que sigue sin encontrar la forma de poner en marcha semejante abuso de calidad en el centro del campo.
 
 <img src="{{page.thumbnail}}" alt="Thumbnail" class="img-thumbnail blog-image box-shadow">
 
