@@ -2,9 +2,9 @@
 layout: my_post
 permalink: /posts/:title:output_ext
 author: Paco Marlasca
-title: Va a ser por medios!
+title: El centro de todo.
 description: El Barça sigue sin encontrar el encaje ideal de sus piezas en medio campo a pesar de contar con argumentos para deslumbrar con balón.
-thumbnail: /assets/img/thumbnails/sera-por-medios.jpeg
+thumbnail: /assets/img/thumbnails/el-centro-de-todo.jpeg
 tags: [Barça, Busquets, de Jong, Arthur]
 main: false
 ---
