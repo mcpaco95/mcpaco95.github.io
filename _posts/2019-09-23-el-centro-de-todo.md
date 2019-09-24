@@ -9,7 +9,7 @@ tags: [Barça, Busquets, de Jong, Arthur]
 main: false
 ---
 
-El recién llegado Frenkie de Jong, la sensación de la temporada pasada Arthur Melo y el veterano Sergio Busquets forman un centro del campo que llenaría los ojos a cualquier amante del balompié. También se encuentran en el primer equipo jugadores de talla mundial como Iván Rakitic, Arturo Vidal o Carles Aleñà y sin contar a Riqui Puig que viene tocando puerta desde el curso pasado. Parecería que el ultimo de los problemas en can Barça debería ser el centro del campo.
+El recién llegado Frenkie de Jong, la sensación de la temporada pasada Arthur Melo y el veterano Sergio Busquets forman un centro del campo que llenaría los ojos a cualquier amante del balompié. También se encuentran en el primer equipo jugadores de talla mundial como Iván Rakitic, Arturo Vidal o Carles Aleñà y sin contar a Riqui Puig que viene tocando puerta desde el curso pasado. Parecería que el último de los problemas en can Barça debería ser el centro del campo.
 
 Para sorpresa de muchos el encaje de las piezas no está siendo nada fácil para Ernesto Valverde, que sigue sin encontrar la forma de poner en marcha semejante abuso de calidad en el centro del campo.
 
