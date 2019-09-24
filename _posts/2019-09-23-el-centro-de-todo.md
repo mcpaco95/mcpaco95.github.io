@@ -21,4 +21,4 @@ Los partidos frente al Betis y Valencia dejan en evidencia que Sergio sigue sien
 
 A pesar de las buenas impresiones que ha dejado Frenkie jugando de pivote, la mejora del equipo cuando Arthur entra en contacto con el balón o las buenas sensaciones que por momentos han dejado ese Busquets-Frenkie-Arthur el equipo no encuentra un rumbo claro con el que asentarse y crecer partido a partido.
 
-Afortunadamente para el Barça la vuelta de Leo Messi significa que todo lo anterior es un simulacro, ya que hasta que el astro argentino no se asiente en el IX y los jugadores empiecen a crecer a partir de él todo lo que ha pasado hasta ahora quedará como una anécdota de como se empezó la temporada sin el 10.
+Afortunadamente para el Barça la vuelta de Leo Messi significa que todo lo anterior es un simulacro, ya que hasta que el astro argentino no se asiente en el XI titular y los jugadores empiecen a crecer a partir de él todo lo que ha pasado hasta ahora quedará como una anécdota de como se empezó la temporada sin el 10.
