@@ -3,7 +3,7 @@ layout: my_post
 permalink: /posts/:title:output_ext
 author: Roberto Cid Torres
 title: La historia detrás del peor record del fútbol mexicano
-description: Un ligero paseo por la historia del fútbol mexicano nos puede ayudar a comprender como uno de los fundadores de la primera division ha conseguido el vergonzoso dato de los 36 partidos sin ganar.
+description: Un ligero paseo por la historia del fútbol mexicano nos puede ayudar a comprender como uno de los fundadores de la primera división ha conseguido el vergonzoso dato de los 36 partidos sin ganar.
 thumbnail: /assets/img/thumbnails/la-historia-detras-del-peor-record-del-futbol-mexicano.jpeg
 tags: [Liga MX, Veracruz]
 main: true
