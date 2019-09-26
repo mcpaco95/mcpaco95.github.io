@@ -21,7 +21,7 @@ Desde el primer momento que entró al campo dejó ver cosas de elegido, de esos 
 
 A pesar de su olfato goleador, el desborde o la calidad y técnica que tiene con el balón sin duda la mayor virtud de Ansu es su inteligencia. Siempre sabe cuando y como explotar sus cualidades, juega para el equipo, sabe cuando encarar, cuando tocar atras, hacer un desmarque y cuando rematar a puerta. Todo esto con la edad que tiene no es mucho menos que completamente surreal e impresionante.
 
-Al Barça la aparición de Ansu le ha venido como una bocanada de aire fresco, las virtudes del canterano hacen que el equipo encuentre en él muchas carencias que lleva teniendo ya varias temporadas. Energía, amplitud, velocidad al espacio, profundidad, desequilibrio entre muchas otras cosas que lo están convirtiendo a su corta edad en pieza cada vez más indispensable para la primera plantilla.
+Al Barça la aparición de Ansu le ha venido como una bocanada de aire fresco, las virtudes del canterano hacen que el equipo encuentre en él muchas carencias que lleva teniendo ya varias temporadas. Energía, amplitud, velocidad al espacio, profundidad y desequilibrio entre muchas otras cosas que lo están convirtiendo a su corta edad en pieza cada vez más indispensable para la primera plantilla.
 
 Lo mas normal sería que el ‘boom’ de Ansu Fati baje poco a poco con el tiempo y para su proyección como futbolista sería lo mas aconsejable y saludable. Lo que es una realidad es que lo que ha hecho Ansu este ultimo mes tiene muchísimo mérito y seguro que será muy bien recordado por todos los barcelonistas.
 
