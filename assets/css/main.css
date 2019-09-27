@@ -23,6 +23,11 @@ body{
     background-attachment: scroll;
     background-position: 50% 100%;
   }
+  .card-columns {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
   @media (min-width: 768px) {
     .jumbotron-portada {
     
@@ -37,6 +42,11 @@ body{
       background-size: cover;
       background-attachment: fixed;
       background-position: 50% 100%;
+    }
+    .card-columns {
+      -webkit-column-count: 3;
+      -moz-column-count: 3;
+      column-count: 3;
     }
   }
   .jumbotron-content{
