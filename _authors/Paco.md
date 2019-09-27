@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Paco Marlasca
-pic: /assets/img/profiles/paco.JPG
+pic: /assets/img/profiles/paco.jpeg
 badges: [/assets/img/badges/barca.png]
 description: Developer | Culé | La Masía
 twitter: https://twitter.com/mcpaco95
