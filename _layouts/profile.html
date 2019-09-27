@@ -37,15 +37,15 @@
     <main class="container">
         <div class="text-center">
             <img src="{{page.pic}}" alt="" class="author-pic animated zoomIn">
-            <h2 class="display-4 animated fadeInLeft">{{page.title}}</h2>
+            <h2 class="display-4">{{page.title}}</h2>
             {%for badge in page.badges%}
-            <img src="{{badge}}" alt="" class="team-badge-bg animated fadeInLeft">
+            <img src="{{badge}}" alt="" class="team-badge-bg">
             {%endfor%}
-            <h3 class="text-muted mb-0 animated fadeInLeft">{{page.description}}</h3>
+            <h3 class="text-muted mb-0">{{page.description}}</h3>
             <h3>
-                <a class="text-black animated fadeInLeft" target="_blank" href="{{page.mail}}"><i
+                <a class="text-black" target="_blank" href="{{page.mail}}"><i
                         class="fas fa-envelope"></i></a>
-                <a class="text-black animated fadeInLeft" target="_blank" href="{{page.twitter}}"><i
+                <a class="text-black" target="_blank" href="{{page.twitter}}"><i
                         class="fab fa-twitter"></i></a>
             </h3>
         </div>
