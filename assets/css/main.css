@@ -235,3 +235,35 @@ body{
   .padding-profile{
     margin-top: 40px;
   }
+  .btn-circle{
+    width: 60px;
+    height: 60px;
+    padding: 12px 0px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+  }
+  .btn-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .btn-facebook:hover {
+    background: rgb(50, 74, 128);
+    color: white;
+  }
+  .btn-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .btn-twitter:hover {
+    background: rgb(43, 89, 124);
+    color: white;
+  }
+  .btn-whatsapp {
+    background: #25d366;
+    color: white;
+  }
+  .btn-whatsapp:hover {
+    background: #1a8f45;
+    color: white;
+  }
