@@ -9,3 +9,7 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+
+function popupOpen(url){
+  window.open(url , "" , "width=600,height=600,scrollbars=NO,left=300")
+}
