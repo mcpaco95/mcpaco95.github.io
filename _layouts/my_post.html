@@ -88,14 +88,27 @@
                         <p class="lead">publicidad</p>
                     </div>
                 </div>
+                <div class="related-big">
+                    <hr>
+                    <h3 class="blog-title-card mb-2">Artículos relacionados</h3>
+                    <ul class="list-unstyled">
+                        {% include related-posts.html %}
+                    </ul>
+                </div>
             </div>
             <div class="col-md-7">
                 <div class="blog-content">
                     {{content}}
                 </div>
+                <div class="related-small">
+                    <hr>
+                    <h3 class="blog-title-card mb-2">Artículos relacionados</h3>
+                    <ul class="list-unstyled">
+                        {% include related-posts.html %}
+                    </ul>
+                </div>
             </div>
         </div>
-        {% include related-posts.html %}
     </main>
 
 </body>

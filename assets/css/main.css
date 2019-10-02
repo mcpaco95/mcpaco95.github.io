@@ -36,6 +36,14 @@ body{
       column-count: 3;
     }
   }
+  .related-big{
+    display: none
+  }
+  .related-hr{
+    border-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
   /*medium*/
   @media (min-width: 768px) {
     .jumbotron-portada {
@@ -51,6 +59,12 @@ body{
       background-size: cover;
       background-attachment: fixed;
       background-position: 50% 100%;
+    }
+    .related-small{
+      display: none;
+    }
+    .related-big{
+      display: block;
     }
   }
   .jumbotron-content{
