@@ -14,7 +14,6 @@
     {% if post.url != page.url %}
         {% if page.tags contains tag %}
         {% assign sameTagCount = sameTagCount | plus: 1 %}
-        {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
         {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
     {% endif %}
@@ -22,7 +21,7 @@
 
     {% if sameTagCount >= minCommonTags %}
     <div>
-    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
     </div>
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
