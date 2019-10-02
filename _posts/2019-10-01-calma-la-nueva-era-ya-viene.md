@@ -23,9 +23,6 @@ Obvio es que un equipo no pueda cambiar en tres meses una forma de jugar que ten
 Hay que ser pacientes y ver las cosas objetivamente, ya que los jugadores están experimentando un proceso de transición y adoptando las nuevas facetas que el técnico esta esperando de ellos. Analicemos esta nueva etapa en la que estamos y probablemente en diciembre ya estaremos viendo los resultados que todos esperamos.
 Dejo esta gran recopilación de algunos de los goles que se han anotado a lo largo de las segundas jornadas en nuestras participaciones en la Champions League.
 
-<div class="text-center">
-    <iframe src="https://www.instagram.com/tv/B3E6L_bBE6e/embed" style="width: 100%;        height: 1000px;" frameborder="0"
-        scrolling="no" allowtransparency="true" allowfullscreen></iframe>
-</div>
+<div style="max-width: 64vh;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 155.4688%;"><iframe src="//cdn.iframe.ly/tSwQEvy?media=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="encrypted-media"></iframe></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 > Vincere non è importante è l'unica cosa che conta
