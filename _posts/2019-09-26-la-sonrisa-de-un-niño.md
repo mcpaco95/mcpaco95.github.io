@@ -3,7 +3,7 @@ layout: my_post
 permalink: /posts/:title:output_ext
 author: Paco Marlasca
 title: La sonrisa de un niño
-description: La figura de Ansu Fati se ha propagado como la pólvora en este comienzo de temporada, un chico de 16 años se ha puesto en hombros a todo un Fútbol Club Barcelona y no parece pesarle demasiado.
+description: La figura de Ansu Fati se ha propagado como la pólvora, un chico de 16 años se ha puesto en hombros a todo un Fútbol Club Barcelona.
 thumbnail: /assets/img/thumbnails/la-sonrisa-de-un-niño.jpeg
 tags: [Barça, Ansu, La Masía]
 main: false
