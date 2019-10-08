@@ -27,7 +27,7 @@ Estas, entre [otras cuestiones](https://www.mundodeportivo.com/futbol/fc-barcelo
 
 Conociendo el carácter de Víctor Valdés no se tomó nada bien las exigencias de la directiva y argumentó que su equipo iba a jugar como él considerara correcto e iban a jugar los canteranos que él considerara que merecían jugar.
 
-Sin duda ambas partes tienen algo de razón, pero la gestión que ha hecho Valdés en su tiempo a cargo, acompañado por malos resultados y fases de juego muy dudosas durante sus experimentos tacticos, en donde siempre había jugadores fuera de posición daban la razón a los directivos que, a pesar de nos ser leyendas del club, siguen siendo sus superiores y están por encima de Valdés en el organigrama de la institución.
+Sin duda ambas partes tienen algo de razón, pero la gestión que ha hecho Valdés en su tiempo a cargo, acompañado por malos resultados y fases de juego muy dudosas durante sus experimentos tacticos, en donde siempre había jugadores fuera de posición daban la razón a los directivos que, a pesar de no ser leyendas del club, siguen siendo sus superiores y están por encima de Valdés en el organigrama de la institución.
 
 A Víctor Valdés probablemente le espera una carrera muy exitosa como entrenador, las innovaciones que intentó hacer con el juvenil son el camino correcto para convertirlo en un entrenador que sobresalga en la élite, sin embargo, queda claro que el exfutbolista del Hospitalet se equivocó en las formas y el momento para transmitir sus ideas en un club que trabaja de la forma que lo hace el Fútbol Club Barcelona.
 
