@@ -5,7 +5,7 @@ author: Paco Marlasca
 title: La destitución de una leyenda
 description: Víctor Valdés fue destituido hoy como entrenador del Juvenil A del Barça.
 thumbnail: /assets/img/thumbnails/la-destitucion-de-una-leyenda.jpeg
-tags: [Barça, La Masía, Valdes]
+tags: [Barça, La Masía, Valdés]
 main: true
 ---
 
