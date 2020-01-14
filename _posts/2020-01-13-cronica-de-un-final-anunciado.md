@@ -2,7 +2,7 @@
 layout: my_post
 permalink: /posts/:title:output_ext
 author: Paco Marlasca
-title: Cronica de un final anunciado
+title: Crónica de un final anunciado
 description: Hoy ha llegado a su fin la etapa de Ernesto Valverde en el Barça, sin embargo el ciclo había terminado hacía mucho tiempo.
 thumbnail: /assets/img/thumbnails/final-valverde.jpeg
 tags: [Barça, Valverde]
