@@ -3,7 +3,7 @@ layout: my_post
 permalink: /posts/:title:output_ext
 author: Mau Gutiérrez
 title: "Se busca ‘5’: El adiós a Guido Rodríguez."
-description: 
+description: Después de varios días de especulación, finalmente se confirmó lo que todos ya sabíamos desde hace unas semanas, Guido Rodríguez es nuevo refuerzo del Betis.
 thumbnail: /assets/img/thumbnails/guido-rodriguez-adios.jpeg
 tags: [Barça, Valverde]
 main: false
