@@ -15,7 +15,7 @@ Quique Setién está convencido de que la forma de ganar es siguiendo su modelo 
 
 <img src="{{page.thumbnail}}" alt="Thumbnail" class="img-thumbnail blog-image box-shadow">
 
-Los equipos de Setién se caracterizan por una salida limpia de balón y por las alternativas que da al equipo para que funcione, algunos ejemplos son la interiorización de los laterales, abrir a banda a un interior o meter al pivote de tercer centrales para ayudar en la salida. Otro aspecto muy característico de los equipos de Setién son los laterales o extremos abriendo el campo y rompiendo al espacio, algo que al Barça le ha hecho muchísima falta en los últimos años.
+Los equipos de Setién se caracterizan por una salida limpia de balón y por las alternativas que da al equipo para que funcione, algunos ejemplos son la interiorización de los laterales, abrir a banda a un interior o meter al pivote entre los centrales para ayudar en la salida. Otro aspecto muy característico de los equipos de Setién son los laterales o extremos abriendo el campo y rompiendo al espacio, algo que al Barça le ha hecho muchísima falta en los últimos años.
 
 Otro aspecto que genera bastante ilusión en los aficionados es el buen trato y el excelente trabajo de formación que hace el cuerpo técnico del técnico de Santander con los canteranos de los equipos que dirigen. Casos como los de Fabián Ruiz o Junior Firpo dejan claro que se fija en los que vienen de abajo y a ademas de dar oportunidad los convierte en mejores jugadores. De momento se ha llamado a varios jugadores del Barça B y del Juvenil a entrenar con el primer equipo y el cuerpo técnico estuvo presente en la victoria sobre el Badalona del segundo equipo.
 
