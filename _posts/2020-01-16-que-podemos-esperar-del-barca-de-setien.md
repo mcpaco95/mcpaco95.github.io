@@ -11,7 +11,7 @@ main: true
 
 Sin lugar a dudas Quique Setién es un de los personajes mas apegados al estilo y a la filosofía del Fútbol Club Barcelona fuera de la institución. Sin tener un pasado blaugrana admira y es fiel creyente al juego de posición. Cruffyista confeso y amante del balón.
 
-Quique Setién está convencido de que la forma de ganar es siguiendo su modelo y podría ir a la tumba con sus ideales si es necesario. La diferencia del nuevo técnico a otros entrenadores es que estos pueden considerar cambiar la forma de jugar si los resultados no acompañan, Setién, no. Podemos estar seguros que Setién no va a cambiar sus formas, por muy mal que vaya todo, el Barça jugará bien.
+Quique Setién está convencido de que la forma de ganar es siguiendo su modelo y podría ir a la tumba con sus ideales si es necesario. La diferencia del nuevo técnico a otros entrenadores es que estos pueden considerar cambiar la forma de jugar si los resultados no acompañan, Setién, no. Podemos estar seguros que Setién no va a cambiar sus formas, por muy mal que vaya todo, el Barça jugará a lo que él quiere.
 
 <img src="{{page.thumbnail}}" alt="Thumbnail" class="img-thumbnail blog-image box-shadow">
 
