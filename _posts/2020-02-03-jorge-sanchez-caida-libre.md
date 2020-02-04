@@ -5,7 +5,7 @@ author: Mau Gutiérrez
 title: "Jorge Sánchez: Caída libre."
 description: El lateral izquierdo del América no ha tenido el mejor arranque de torneo.
 thumbnail: /assets/img/thumbnails/jorge-sanchez.jpeg
-tags: [America, Jorge Sánchez, Liga MX]
+tags: [América, Jorge Sánchez, Liga MX]
 main: false
 ---
 
