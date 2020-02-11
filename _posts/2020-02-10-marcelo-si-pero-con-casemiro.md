@@ -11,9 +11,9 @@ main: false
 
 La eliminación del Real Madrid en la Copa del Rey frente a la Real Sociedad fue un golpe duro a un equipo que gozaba sus mejores momentos en la temporada, ya como líder de la liga local buscaba colocarse como contendiente claro para ganar la Copa del Rey, pero un desastre defensivo privó una vez más del título que le falta a Zinadine Zidane como entrenador.
 
-<img src="{{page.thumbnail}}" alt="Thumbnail" class="img-thumbnail blog-image box-shadow">
-
 Hay distintos puntos para analizar en la línea defensiva, pero algo que fue muy evidente es que Marcelo lleva descuidando defensivamente su posición por algún tiempo y sigue dejando un espacio muy atractivo para que los rivales aprovechen y generen oportunidades al frente. Pero con la gran aportación ofensiva que ofrece el lateral brasileño partido tras partido, es un riesgo que se está dispuesto a correr mientras haya un planteamiento que lo respalde. 
+
+<img src="{{page.thumbnail}}" alt="Thumbnail" class="img-thumbnail blog-image box-shadow">
 
 Si hay que poner el título de “imprescindible” a un jugador del Real Madrid esta temporada sería: Carlos Henrique Casemiro. Uno de sus roles más notorios en el equipo es el de disminuir las responsabilidades defensivas a sus laterales, dándoles la libertad de acompañar en las últimas líneas con goles o asistencias. Con los años los repliegues defensivos se han vuelto más complicados para Marcelo, por lo que el rol de un contención como Casemiro cobra mucha mayor importancia. 
 
